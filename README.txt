@@ -1,0 +1,1 @@
+Vlaams Trainer PWA v2 — Deel 4. Upload ALL files to the same GitHub Pages directory. Existing learning progress is retained (localStorage key vlaams-trainer-v1). New cache v2 updates offline app. Red vocabulary is prioritized; choose the red priority category for focused practice.
